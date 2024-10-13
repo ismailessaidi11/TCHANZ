@@ -1,4 +1,4 @@
-# TCHanz
+# TCHANZ
 
 TCHanz is an object oriented C++ project that simulates ants colonies using GTKmm as graphical user interface. This README provides instructions on how to install dependencies, compile, and run the project.
 
