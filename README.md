@@ -30,7 +30,7 @@ sudo apt install build-essential cmake libgtkmm-3.0-dev pkg-config
 To compile the project, run the following command in the `build` directory:
 
 ```bash
-./compile.sh
+./run.sh
 ```
 
 This script will clean the build directory, configure the project with CMake, and compile the source files.
